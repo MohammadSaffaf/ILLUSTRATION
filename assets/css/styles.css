@@ -1,0 +1,221 @@
+/* nav: why? / illustration / buy
+absurd illustrations that make sense
+What about absurd illustrations for your projects? Take every user on an individual journey through their own imagination.
+real beauty resides in imperfection
+In a digital era, we sometimes feel the need to interact with something more human that will make us appreciate both the beauty and the imperfection of something made by hand.
+expressiveness is... the new black
+This series of illustrations paradoxically combines absurdity and a deep sense of childishness and naivety.
+illustrations for applications
+Welcome to my space for experiments! Look at this like a journey we can take together every step of the way, beginning another chapter with each new phase of the project development. And who knows where it will take us?
+examples of use
+Each illustration offers the possibility of limitless interpretations and uses and everyone can give it its own meaning. It depends only on each one's creativity and free spirit.
+download illustrations
+You're free to use these illustrations for both personal and commercial projects. And if you want to make a human happy would be nice to give credits by mentioning this website or be my supporter. I have created a membership plan for people who love my works and wish to support me and receive new artwork regularly.
+ */
+
+ /* font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif; */
+
+
+ nav li{
+    display: inline-block;
+    list-style: none;
+    
+    
+
+}
+
+nav ul{
+    word-spacing: 5vh;
+    
+    margin-left: 130vh;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+   
+}
+nav img{
+    
+    margin-top: 10vh;
+    margin-left: 115vh;
+    width: 70vh;
+
+}
+.div1{
+    margin-top: -70vh;
+    width: 70vh;
+    margin-left: 15vh;
+    
+}
+ h1{
+    font-size: 50px;
+    font-family: 'Merriweather', serif;
+}
+p{
+    font-size: 25px;
+}
+nav button{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    font-family: 'Merriweather', serif;
+    font-size: 15px
+
+}
+.a{
+    background-color: black;
+    color: white;
+}
+.b{
+    border-bottom: 1px solid lightgray;
+}
+
+
+
+
+ .section1 img{
+   
+    width: 60vh;
+    margin-top: 40vh;
+    margin-left: 10vh;
+ }
+ .div2{
+    margin-top: -55vh;
+    margin-left: 110vh;
+    margin-right: 10vh;
+    
+ }
+
+.article1 img{
+    
+    /* position: relative;
+    position: absolute;
+    left: 100vh;
+    width: 50vh;
+    margin-top: 30vh; */
+    margin-top: 20vh;
+    margin-left: 100vh;
+    width: 70vh;
+
+}
+.div3{
+    margin-top: -50vh;
+    width: 65vh;
+    margin-left: 15vh;
+    
+}
+.div4 p{
+    
+    
+    margin-right: 42vh;
+    margin-left: 42vh;
+}
+.div4{
+    text-align: center;
+    margin-top: 30vh;
+    
+    
+}
+.div4 img{
+    width: 40vh;
+    margin: 6vh;
+}
+.div5 img{
+    width: 60vh;
+    margin: 10vh;
+    
+}
+.div5{
+    text-align: center;
+    margin-top: 20vh;
+}
+ .p4{
+    
+    margin-right: 48vh;
+    margin-left: 48vh;
+}
+.p5{
+    
+    margin-right: 47vh;
+    margin-left: 47vh;
+}
+.article2 li {
+    display: block;
+    list-style: none;
+    margin: 10px;
+    font-size: 20px;
+    
+    
+}
+
+.li1{
+    color: rgb(131, 125, 125);
+    font-size: 30px
+    
+}
+.button2{
+   margin-top: 3vh;
+ padding:  20px 90px;
+    background-color:#24bff2 ;
+color:#F5FBFE ;
+border: none;
+border-radius: 5px;
+font-family: 'Merriweather', serif;
+font-size: 20px;
+}
+/* Farbe: #202020, #24bff2, #fff, #F5FBFE.
+Farbe social media: #3b5998, #fcaf45, #55acee, #c4302b */
+footer{
+    text-align: center;
+    margin-top: 20vh;
+}
+ div .ul2 li{
+    display: block;
+    list-style: none;
+    margin: 4vh;
+    font-size: 25px;
+}
+.div6{
+    margin: 10vh;
+}
+.li2{
+    color: rgb(131, 125, 125);
+}
+.ul3 li{
+    display: inline-block;
+    
+    margin: 10px;
+
+}
+.li4:before{
+    content: "\2022";
+    color:#3b5998 ; 
+    
+}
+.li5:before{
+    content: "\2022";
+    color:#fcaf45 ; 
+    
+}
+.li6:before{
+    content: "\2022";
+    color:#55acee ; 
+    
+}
+.li7:before{
+    content: "\2022";
+    color:#c4302b ; 
+    
+}
+.article2 img:hover , .section2 img:hover{
+    border: 3px solid #dae1e4;
+
+}
+
+.div7{
+    background-color: #dce9f0 ;
+    width: 60vh;
+    margin: 0 auto;
+    padding-bottom: 10vh;
+    padding-top: 10vh;
+    
+}
